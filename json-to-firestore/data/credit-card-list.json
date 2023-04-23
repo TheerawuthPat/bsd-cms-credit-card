@@ -1,0 +1,143 @@
+[
+    {
+        "id": "credit_card_1",
+        "name": "Krungsri Visa Platinum",
+        "sourceBank": "Krungsri",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bsd-special-project.appspot.com/o/KrungsriVisaPlatinum.png?alt=media&token=713ca81b-398f-4a3b-90cc-2b91c32ec654",
+        "categoryType": [
+            "dining"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 1000,
+                "maxSpend": null,
+                "cashbackPerTime": 1
+            }
+        ],
+        "limitCashbackPerMonth": 500
+    },
+    {
+        "id": "credit_card_2",
+        "name": "Krungsri HomePro Visa",
+        "source_bank": "Krungsri",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bsd-special-project.appspot.com/o/KrungsriHomePro.png?alt=media&token=9cfa42d1-84eb-47f3-87ab-dd5d14956bfe",
+        "category_type": [
+            "shoping"
+        ],
+        "cashbackType": "percent",
+        "cashbackPerTime": 3,
+        "cashbackConditions": [
+            {
+                "minSpend": 1000,
+                "maxSpend": null
+            }
+        ],
+        "limitCashbackPerMonth": 300
+    },
+    {
+        "id": "credit_card_3",
+        "name": "Krungsri NOW",
+        "sourceBank": "Krungsri",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bsd-special-project.appspot.com/o/KrungsriNow.png?alt=media&token=633b739d-581c-40fe-9af2-330219a86960",
+        "categoryType": [
+            "dining",
+            "shopping"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 500,
+                "maxSpend": null,
+                "cashbackPerTime": 5
+            }
+        ],
+        "limitCashbackPerMonth": 500
+    },
+    {
+        "id": "credit_card_4",
+        "name": "Krungsri SiamTakasiyama",
+        "sourceBank": "Krungsri",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bsd-special-project.appspot.com/o/KrungsriSiamTakashimaya.png?alt=media&token=5f515c62-9a9b-430d-b274-3d1710575ef8",
+        "categoryType": [
+            "dining",
+            "shopping"
+        ],
+        "cashbackType": "step",
+        "cashbackConditions": [
+            {
+                "minSpend": 0,
+                "maxSpend": 10000,
+                "cashbackPerTime": 1
+            },
+            {
+                "minSpend": 10001,
+                "maxSpend": 50000,
+                "cashbackPerTime": 3
+            },
+            {
+                "minSpend": 50001,
+                "maxSpend": null,
+                "cashbackPerTime": 5
+            }
+        ],
+        "limitCashbackPerMonth": 3000
+    },
+    {
+        "id": "credit_card_5",
+        "name": "TTB So Chill",
+        "sourceBank": "TTB",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bsd-special-project.appspot.com/o/TTBSoChill.png?alt=media&token=8f2389e3-7c0c-4115-9035-24e4be720892",
+        "categoryType": [
+            "dining",
+            "shopping"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 1000,
+                "maxSpend": null,
+                "cashbackPerTime": 1
+            }
+        ],
+        "limitCashbackPerMonth": 500
+    },
+    {
+        "id": "credit_card_6",
+        "name": "TTB So Fast",
+        "sourceBank": "TTB",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bsd-special-project.appspot.com/o/TTBSoFast.png?alt=media&token=39f1ccb6-01ad-4704-a6df-2df0ba4a6419",
+        "category_type": [
+            "dining",
+            "shopping"
+        ],
+        "cashbackType": "percent",
+        "cashbackPerTime": 3,
+        "cashbackConditions": [
+            {
+                "minSpend": 1000,
+                "maxSpend": null
+            }
+        ],
+        "limitCashbackPerMonth": 300
+    },
+    {
+        "id": "credit_card_7",
+        "name": "TTB So Smart",
+        "sourceBank": "TTB",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bsd-special-project.appspot.com/o/TTBSoSmart.png?alt=media&token=33a6d10c-7f4e-4896-a4fe-ef5be79f0d73",
+        "categoryType": [
+            "dining",
+            "shopping"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 500,
+                "maxSpend": null,
+                "cashbackPerTime": 5
+            }
+        ],
+        "limitCashbackPerMonth": 500
+    }
+]
