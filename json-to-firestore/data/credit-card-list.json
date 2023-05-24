@@ -20,17 +20,17 @@
     {
         "id": "credit_card_2",
         "name": "Krungsri HomePro Visa",
-        "source_bank": "Krungsri",
+        "sourceBank": "Krungsri",
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bsd-special-project.appspot.com/o/KrungsriHomePro.png?alt=media&token=9cfa42d1-84eb-47f3-87ab-dd5d14956bfe",
-        "category_type": [
-            "shoping"
+        "categoryType": [
+            "shopping"
         ],
         "cashbackType": "percent",
-        "cashbackPerTime": 3,
         "cashbackConditions": [
             {
                 "minSpend": 1000,
-                "maxSpend": null
+                "maxSpend": null,
+                "cashbackPerTime": 3
             }
         ],
         "limitCashbackPerMonth": 300
@@ -107,7 +107,7 @@
         "name": "TTB So Fast",
         "sourceBank": "TTB",
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bsd-special-project.appspot.com/o/TTBSoFast.png?alt=media&token=39f1ccb6-01ad-4704-a6df-2df0ba4a6419",
-        "category_type": [
+        "categoryType": [
             "dining",
             "shopping"
         ],
