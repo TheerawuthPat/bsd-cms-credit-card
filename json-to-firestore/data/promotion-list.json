@@ -1,0 +1,322 @@
+[
+    {
+        "id": "promotion_1",
+        "name": "PAY HAPPINESS : ) กิน ช้อป เที่ยว รับเครดิตเงินคืนสูงสุด 6,000 บาท",
+        "startDate": "01/06/2023",
+        "endDate": "30/12/2023",
+        "sourceBank": "Krungsri",
+        "creditCardRelation": [
+            "Krungsri NOW", "Krungsri Visa Platinum", "Krungsri SiamTakasiyama", "Krungsri HomePro"
+        ],
+        "categoryType": [
+            "dining", "shopping"
+        ],
+        "cashbackType": "step",
+        "cashbackConditions": [
+            {
+                "minSpend": 0,
+                "maxSpend": 10000,
+                "cashbackPerTime": 1
+            },
+            {
+                "minSpend": 10001,
+                "maxSpend": 50000,
+                "cashbackPerTime": 3
+            },
+            {
+                "minSpend": 50001,
+                "maxSpend": 99999,
+                "cashbackPerTime": 9
+            },
+            {
+                "minSpend": 100000,
+                "maxSpend": 999999,
+                "cashbackPerTime": 12
+            }
+        ],
+        "limitCashbackPerMonth": 6000,
+        "location": [
+             {
+                "lat": 0.0000001,
+                "lng": 0.0000001,
+                "placeName": "All Restuarant and Shop"
+             }
+        ]
+    },
+    {
+        "id": "promotion_2",
+        "name": "อิ่มคุ้มที่ AFTER YOU กับแคมเปญ บัตรรู้ใจใช่ทุกมื้อ",
+        "startDate": "01/06/2023",
+        "endDate": "30/12/2023",
+        "sourceBank": "Krungsri",
+        "creditCardRelation": [
+            "Krungsri NOW", "Krungsri Visa Platinum", "Krungsri SiamTakasiyama"
+        ],
+        "categoryType": [
+            "dining"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 1000,
+                "maxSpend": 999999,
+                "cashbackPerTime": 7
+            }
+        ],
+        "limitCashbackPerMonth": 2000,
+        "location": [
+             {
+                "lat": 13.732954551607326,
+                "lng": 100.53062968797181,
+                "placeName": "Chamchuri Square"
+             }
+        ]
+    },
+    {
+        "id": "promotion_3",
+        "name": "อิ่มอร่อย พร้อมรับเครดิตเงินคืนรวมสูงสุด 6%",
+        "startDate": "01/06/2023",
+        "endDate": "30/12/2023",
+        "sourceBank": "Krungsri",
+        "creditCardRelation": [
+            "Krungsri NOW", "Krungsri Visa Platinum", "Krungsri SiamTakasiyama", "Krungsri HomePro"
+        ],
+        "categoryType": [
+            "dining"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 1000,
+                "maxSpend": 999999,
+                "cashbackPerTime": 6
+            }
+        ],
+        "limitCashbackPerMonth": 2000,
+        "location": [
+             {
+                "lat": 13.733682468724325,
+                "lng": 100.52849100047838,
+                "placeName": "Samyan Mitrtown"
+             }
+        ]
+    },
+    {
+        "id": "promotion_4",
+        "name": "UNIQLO รับเครดิตเงินคืนสูงสุด 10%",
+        "startDate": "01/06/2023",
+        "endDate": "30/12/2023",
+        "sourceBank": "Krungsri",
+        "creditCardRelation": [
+            "Krungsri NOW", "Krungsri Visa Platinum", "Krungsri SiamTakasiyama"
+        ],
+        "categoryType": [
+            "shopping"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 2500,
+                "maxSpend": 999999,
+                "cashbackPerTime": 10
+            }
+        ],
+        "limitCashbackPerMonth": 1000,
+        "location": [
+             {
+                "lat": 13.733682468724325,
+                "lng": 100.52849100047838,
+                "placeName": "Samyan Mitrtown"
+             }
+        ]
+    },
+    {
+        "id": "promotion_5",
+        "name": "Sephora รับเครดิตเงินคืนรวมสูงสุด 7%",
+        "startDate": "01/06/2023",
+        "endDate": "30/12/2023",
+        "sourceBank": "Krungsri",
+        "creditCardRelation": [
+            "Krungsri NOW", "Krungsri Visa Platinum", "Krungsri SiamTakasiyama"
+        ],
+        "categoryType": [
+            "shopping"
+        ],
+        "cashbackType": "step",
+        "cashbackConditions": [
+            {
+                "minSpend": 3000,
+                "maxSpend": 12000,
+                "cashbackPerTime": 5
+            },
+            {
+                "minSpend": 12001,
+                "maxSpend": 999999,
+                "cashbackPerTime": 7
+            }
+        ],
+        "limitCashbackPerMonth": 1500,
+        "location": [
+             {
+                "lat": 13.733682468724325,
+                "lng": 100.52849100047838,
+                "placeName": "Samyan Mitrtown"
+             }
+        ]
+    },
+    {
+        "id": "promotion_6",
+        "name": "กินช้อปสุดคุ้ม",
+        "startDate": "01/06/2023",
+        "endDate": "30/12/2023",
+        "sourceBank": "TTB",
+        "creditCardRelation": [
+            "TTB So Chill", "TTB So Fast", "TTB So Smart"
+        ],
+        "categoryType": [
+            "dining"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 1000,
+                "maxSpend": 999999,
+                "cashbackPerTime": 3
+            }
+        ],
+        "limitCashbackPerMonth": 1500,
+        "location": [
+             {
+                "lat": 13.732905061918462,
+                "lng": 100.52997210070026,
+                "placeName": "Tesco Lotus"
+             }
+        ]
+    },
+    {
+        "id": "promotion_7",
+        "name": "Don Don Donki รับเครดิตเงินคืนสูงสุด 5%",
+        "startDate": "01/06/2023",
+        "endDate": "30/12/2023",
+        "sourceBank": "TTB",
+        "creditCardRelation": [
+            "TTB So Chill", "TTB So Fast", "TTB So Smart"
+        ],
+        "categoryType": [
+            "shopping"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 1000,
+                "maxSpend": 999999,
+                "cashbackPerTime": 5
+            }
+        ],
+        "limitCashbackPerMonth": 1500,
+        "location": [
+             {
+                "lat": 13.744835006002438,
+                "lng": 100.52963448809919,
+                "placeName": "MBK Center"
+             }
+        ]
+    },
+    {
+        "id": "promotion_8",
+        "name": "Fuji อิ่มทุกมื้อ รับเครดิตเงินคืนสูงสุด 3%",
+        "startDate": "01/06/2023",
+        "endDate": "30/12/2023",
+        "sourceBank": "TTB",
+        "creditCardRelation": [
+            "TTB So Chill", "TTB So Fast", "TTB So Smart"
+        ],
+        "categoryType": [
+            "dining"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 1000,
+                "maxSpend": 999999,
+                "cashbackPerTime": 3
+            }
+        ],
+        "limitCashbackPerMonth": 300,
+        "location": [
+            {
+                "lat": 13.732954551607326,
+                "lng": 100.53062968797181,
+                "placeName": "Chamchuri Square"
+             }
+        ]
+    },
+    {
+        "id": "promotion_9",
+        "name": "Yayoi รับเครดิตเงินคืนสูงสุด 300 บาท",
+        "startDate": "01/06/2023",
+        "endDate": "30/12/2023",
+        "sourceBank": "TTB",
+        "creditCardRelation": [
+            "TTB So Smart"
+        ],
+        "categoryType": [
+            "dining"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 1000,
+                "maxSpend": 999999,
+                "cashbackPerTime": 1
+            }
+        ],
+        "limitCashbackPerMonth": 300,
+        "location": [
+            {
+                "lat": 13.732954551607326,
+                "lng": 100.53062968797181,
+                "placeName": "Chamchuri Square"
+             }
+        ]
+    },
+    {
+        "id": "promotion_10",
+        "name": "Mid Year Sale รับเครดิตเงินคืนรวมสูงสุด 6,000 บาท",
+        "startDate": "01/03/2023",
+        "endDate": "30/05/2023",
+        "sourceBank": "TTB",
+        "creditCardRelation": [
+            "TTB So Chill", "TTB So Fast", "TTB So Smart"
+        ],
+        "categoryType": [
+            "shopping"
+        ],
+        "cashbackType": "percent",
+        "cashbackConditions": [
+            {
+                "minSpend": 0,
+                "maxSpend": 10000,
+                "cashbackPerTime": 3
+            },
+            {
+                "minSpend": 10001,
+                "maxSpend": 60000,
+                "cashbackPerTime": 7
+            },
+            {
+                "minSpend": 60001,
+                "maxSpend": 999999,
+                "cashbackPerTime": 5
+            }
+        ],
+        "limitCashbackPerMonth": 6000,
+        "location": [
+            {
+                "lat": 13.733682468724325,
+                "lng": 100.52849100047838,
+                "placeName": "Samyan Mitrtown"
+             }
+        ]
+    }
+]

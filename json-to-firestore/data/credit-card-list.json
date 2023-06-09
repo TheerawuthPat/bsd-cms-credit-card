@@ -11,7 +11,7 @@
         "cashbackConditions": [
             {
                 "minSpend": 1000,
-                "maxSpend": null,
+                "maxSpend": 999999,
                 "cashbackPerTime": 1
             }
         ],
@@ -19,7 +19,7 @@
     },
     {
         "id": "credit_card_2",
-        "name": "Krungsri HomePro Visa",
+        "name": "Krungsri HomePro",
         "sourceBank": "Krungsri",
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bsd-special-project.appspot.com/o/KrungsriHomePro.png?alt=media&token=9cfa42d1-84eb-47f3-87ab-dd5d14956bfe",
         "categoryType": [
@@ -29,7 +29,7 @@
         "cashbackConditions": [
             {
                 "minSpend": 1000,
-                "maxSpend": null,
+                "maxSpend": 999999,
                 "cashbackPerTime": 3
             }
         ],
@@ -48,7 +48,7 @@
         "cashbackConditions": [
             {
                 "minSpend": 500,
-                "maxSpend": null,
+                "maxSpend": 999999,
                 "cashbackPerTime": 5
             }
         ],
@@ -77,7 +77,7 @@
             },
             {
                 "minSpend": 50001,
-                "maxSpend": null,
+                "maxSpend": 999999,
                 "cashbackPerTime": 5
             }
         ],
@@ -96,7 +96,7 @@
         "cashbackConditions": [
             {
                 "minSpend": 1000,
-                "maxSpend": null,
+                "maxSpend": 999999,
                 "cashbackPerTime": 1
             }
         ],
@@ -116,7 +116,7 @@
         "cashbackConditions": [
             {
                 "minSpend": 1000,
-                "maxSpend": null
+                "maxSpend": 999999
             }
         ],
         "limitCashbackPerMonth": 300
@@ -134,7 +134,7 @@
         "cashbackConditions": [
             {
                 "minSpend": 500,
-                "maxSpend": null,
+                "maxSpend": 999999,
                 "cashbackPerTime": 5
             }
         ],
