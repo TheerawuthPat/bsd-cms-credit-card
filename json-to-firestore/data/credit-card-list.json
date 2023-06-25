@@ -73,12 +73,12 @@
             {
                 "minSpend": 10001,
                 "maxSpend": 50000,
-                "cashbackPerTime": 3
+                "cashbackPerTime": 2
             },
             {
                 "minSpend": 50001,
                 "maxSpend": 999999,
-                "cashbackPerTime": 5
+                "cashbackPerTime": 3
             }
         ],
         "limitCashbackPerMonth": 3000
@@ -112,14 +112,14 @@
             "shopping"
         ],
         "cashbackType": "percent",
-        "cashbackPerTime": 3,
         "cashbackConditions": [
             {
                 "minSpend": 1000,
-                "maxSpend": 999999
+                "maxSpend": 999999,
+                "cashbackPerTime": 4
             }
         ],
-        "limitCashbackPerMonth": 300
+        "limitCashbackPerMonth": 500
     },
     {
         "id": "credit_card_7",
