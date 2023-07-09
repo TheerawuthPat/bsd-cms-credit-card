@@ -3,7 +3,7 @@
         "id": "promotion_1",
         "name": "PAY HAPPINESS : ) กิน ช้อป เที่ยว รับเครดิตเงินคืนสูงสุด 6,000 บาท",
         "startDate": "01/06/2023",
-        "endDate": "30/07/2023",
+        "endDate": "30/08/2023",
         "sourceBank": "Krungsri",
         "creditCardRelation": [
             "credit_card_3", "credit_card_1", "credit_card_4", "credit_card_2"
@@ -47,7 +47,7 @@
         "id": "promotion_2",
         "name": "อิ่มคุ้มที่ AFTER YOU กับแคมเปญ บัตรรู้ใจใช่ทุกมื้อ",
         "startDate": "01/06/2023",
-        "endDate": "30/12/2023",
+        "endDate": "30/09/2023",
         "sourceBank": "Krungsri",
         "creditCardRelation": [
             "credit_card_3", "credit_card_1", "credit_card_4"
@@ -76,7 +76,7 @@
         "id": "promotion_3",
         "name": "อิ่มอร่อย พร้อมรับเครดิตเงินคืนรวมสูงสุด 6%",
         "startDate": "01/06/2023",
-        "endDate": "30/11/2023",
+        "endDate": "30/10/2023",
         "sourceBank": "Krungsri",
         "creditCardRelation": [
             "credit_card_3", "credit_card_1", "credit_card_4", "credit_card_2"
@@ -88,8 +88,13 @@
         "cashbackConditions": [
             {
                 "minSpend": 1000,
-                "maxSpend": 999999,
-                "cashbackPerTime": 6
+                "maxSpend": 20000,
+                "cashbackPerTime": 5
+            },
+            {
+                "minSpend": 20001,
+                "maxSpend": 50000,
+                "cashbackPerTime": 7
             }
         ],
         "limitCashbackPerMonth": 2000,
@@ -134,7 +139,7 @@
         "id": "promotion_5",
         "name": "Sephora รับเครดิตเงินคืนรวมสูงสุด 7%",
         "startDate": "01/06/2023",
-        "endDate": "30/08/2023",
+        "endDate": "30/11/2023",
         "sourceBank": "Krungsri",
         "creditCardRelation": [
             "credit_card_3", "credit_card_1", "credit_card_4"
